@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 
 A comprehensive, console-based Bank Management System built with Java, MySQL, and JDBC. This project simulates real-world banking operations, featuring secure authentication, ACID-compliant transactions, and a robust layered architecture.
 
@@ -30,7 +30,6 @@ A comprehensive, console-based Bank Management System built with Java, MySQL, an
 - **Language:** Java 11+
 - **Database:** MySQL Server
 - **Database Connectivity:** JDBC
-- **Build Tool:** Apache Maven
 
 ## 🏗️ Architecture
 
