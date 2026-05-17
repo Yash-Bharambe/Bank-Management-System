@@ -51,8 +51,8 @@ CREATE TABLE Accounts (
     balance DOUBLE,
     password VARCHAR(50)
 );
+```
 
-````md
 ## `Transactions` Table
 
 ```sql
